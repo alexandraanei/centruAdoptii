@@ -1,7 +1,7 @@
-## Centru adoptii animale
-# Definirea sistemului
+# Centru adoptii animale
+## Definirea sistemului
 
-# Tipuri de obiecte:
+## Tipuri de obiecte:
 - Animal (prin mostenire: Pisica, Caine)
 - Angajat
 - Adoptator
@@ -11,5 +11,5 @@
 - Formular (interfata)-> FormularAdoptie, FormularPlata
 - Locatie
 
-# Colectii:
+## Colectii:
 * IstoricAdoptii (Lista de Formulare)
