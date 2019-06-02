@@ -1,8 +1,8 @@
 package centruAdoptie.sali;
 
 public abstract class Sala {
-    private String nume;
-    private int capacitate;
+    protected String nume;
+    protected int capacitate;
 
     public Sala() {
     }
@@ -26,5 +26,13 @@ public abstract class Sala {
 
     public void setCapacitate(int capacitate) {
         this.capacitate = capacitate;
+    }
+
+    @Override
+    public String toString() {
+        return "Sala{" +
+                "nume='" + nume + '\'' +
+                ", capacitate=" + capacitate +
+                '}';
     }
 }

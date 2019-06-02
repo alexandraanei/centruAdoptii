@@ -7,4 +7,5 @@ public interface Formular {
     String getNume();
     String getSex();
     Locatie getAdresa();
+
 }

@@ -1,11 +1,13 @@
 package centruAdoptie.animale;
 
-public abstract class Animal {
-    private String id;
-    private String nume;
-    private String varsta;
-    private String descriere;
-    private String sex;
+import java.io.Serializable;
+
+public abstract class Animal implements Serializable {
+    protected String id;
+    protected String nume;
+    protected String varsta;
+    protected String descriere;
+    protected String sex;
 
     public Animal() {
     }
@@ -16,6 +18,17 @@ public abstract class Animal {
         this.varsta = varsta;
         this.descriere = descriere;
         this.sex = sex;
+    }
+
+    @Override
+    public String toString() {
+        return "Animal{" +
+                "id='" + id + '\'' +
+                ", nume='" + nume + '\'' +
+                ", varsta='" + varsta + '\'' +
+                ", descriere='" + descriere + '\'' +
+                ", sex='" + sex + '\'' +
+                '}';
     }
 
     public String getId() {

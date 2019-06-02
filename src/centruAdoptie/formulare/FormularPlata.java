@@ -1,23 +1,18 @@
 package centruAdoptie.formulare;
 
+
 import centruAdoptie.locatii.Locatie;
 
 public class FormularPlata implements Formular {
     private String CNP;
-    private String nume;
-    private String sex;
-    private Locatie adresa;
     private int cost;
     private String descriere;
 
     public FormularPlata() {
     }
 
-    public FormularPlata(String CNP, String nume, String sex, Locatie adresa, int cost, String descriere) {
+    public FormularPlata(String CNP, int cost, String descriere) {
         this.CNP = CNP;
-        this.nume = nume;
-        this.sex = sex;
-        this.adresa = adresa;
         this.cost = cost;
         this.descriere = descriere;
     }
@@ -42,17 +37,6 @@ public class FormularPlata implements Formular {
         this.CNP = CNP;
     }
 
-    public void setNume(String nume) {
-        this.nume = nume;
-    }
-
-    public void setSex(String sex) {
-        this.sex = sex;
-    }
-
-    public void setAdresa(Locatie adresa) {
-        this.adresa = adresa;
-    }
 
     @Override
     public String getCNP() {
@@ -61,16 +45,17 @@ public class FormularPlata implements Formular {
 
     @Override
     public String getNume() {
-        return nume;
+        return null;
     }
 
     @Override
     public String getSex() {
-        return sex;
+        return null;
     }
 
     @Override
     public Locatie getAdresa() {
-        return adresa;
+        return null;
     }
+
 }

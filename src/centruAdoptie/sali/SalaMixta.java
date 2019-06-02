@@ -3,6 +3,8 @@ package centruAdoptie.sali;
 import centruAdoptie.animale.Caine;
 import centruAdoptie.animale.Pisica;
 
+import java.util.Arrays;
+
 public class SalaMixta extends Sala {
     private Caine caini[];
     private Pisica pisici[];
@@ -41,4 +43,13 @@ public class SalaMixta extends Sala {
         this.pisici = pisici;
     }
 
+    @Override
+    public String toString() {
+        return "SalaMixta{" +
+                "nume='" + nume + '\'' +
+                ", capacitate=" + capacitate +
+                ", caini=" + Arrays.toString(caini) +
+                ", pisici=" + Arrays.toString(pisici) +
+                '}';
+    }
 }
