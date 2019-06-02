@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2bec284-01a5-4789-a8a6-bdc70ea28972" name="Default Changelist" comment="" />
+    <list default="true" id="c2bec284-01a5-4789-a8a6-bdc70ea28972" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/audit.csv" beforeDir="false" afterPath="$PROJECT_DIR$/audit.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProiectPAO/META-INF/ProiectPAO.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/adoptatori/Adoptator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/angajati/Angajat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/clinici/Clinica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/formulare/Formular.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/formulare/Formular.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/formulare/FormularAdoptii.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/formulare/FormularAdoptii.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/formulare/FormularPlata.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/formulare/FormularPlata.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/locatii/Locatie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/proiecte/Proiect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/servicii/AdoptatorJDBC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/servicii/AdoptatorJDBC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/servicii/ClinicaJDBC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/servicii/ClinicaJDBC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/servicii/LocatieJDBC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/servicii/LocatieJDBC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/servicii/ServiciuAdoptator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/servicii/ServiciuAdoptator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/servicii/ServiciuAngajati.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/servicii/ServiciuAngajati.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/servicii/ServiciuIstoricAdoptii.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/servicii/ServiciuIstoricAdoptii.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/servicii/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProiectPAO/centruAdoptie/servicii/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/centruAdoptie/adoptatori/Adoptator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/centruAdoptie/modele/Adoptator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/centruAdoptie/angajati/Angajat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/centruAdoptie/modele/Angajat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/centruAdoptie/clinici/Clinica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/centruAdoptie/modele/Clinica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/centruAdoptie/formulare/Formular.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/centruAdoptie/formulare/Formular.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/centruAdoptie/formulare/FormularAdoptii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/centruAdoptie/formulare/FormularAdoptii.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/centruAdoptie/formulare/FormularPlata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/centruAdoptie/formulare/FormularPlata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/centruAdoptie/locatii/Locatie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/centruAdoptie/modele/Locatie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/centruAdoptie/proiecte/Proiect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/centruAdoptie/modele/Proiect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/centruAdoptie/servicii/AdoptatorJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/centruAdoptie/servicii/AdoptatorJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/centruAdoptie/servicii/ClinicaJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/centruAdoptie/servicii/ClinicaJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/centruAdoptie/servicii/LocatieJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/centruAdoptie/servicii/LocatieJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/centruAdoptie/servicii/ServiciuAdoptator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/centruAdoptie/servicii/ServiciuAdoptator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/centruAdoptie/servicii/ServiciuAngajati.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/centruAdoptie/servicii/ServiciuAngajati.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/centruAdoptie/servicii/ServiciuIstoricAdoptii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/centruAdoptie/servicii/ServiciuIstoricAdoptii.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/centruAdoptie/servicii/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/centruAdoptie/servicii/UserService.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +50,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/centruAdoptie/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="326">
+              <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -26,40 +62,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/centruAdoptie/servicii/ServiciuAdoptator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#418#429#0" expanded="true" />
-                <element signature="e#1027#1150#0" expanded="true" />
-                <element signature="e#1149#1150#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/centruAdoptie/servicii/ServiciuAudit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="43" column="5" lean-forward="true" selection-start-line="38" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="173">
+              <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#608#731#0" expanded="true" />
-                <element signature="e#730#731#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/centruAdoptie/adoptatori/Adoptator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -78,6 +88,9 @@
     <findStrings>
       <find>Locatie</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -106,6 +119,9 @@
         <option value="$PROJECT_DIR$/src/centruAdoptie/formulare/FormularAdoptii.java" />
         <option value="$PROJECT_DIR$/src/centruAdoptie/servicii/ServiciuAdoptator.java" />
         <option value="$PROJECT_DIR$/src/centruAdoptie/Main.java" />
+        <option value="$PROJECT_DIR$/src/centruAdoptie/Clinica.java" />
+        <option value="$PROJECT_DIR$/src/centruAdoptie/proiecte/Clinica.java" />
+        <option value="$PROJECT_DIR$/src/centruAdoptie/modele/Locatie.java" />
       </list>
     </option>
   </component>
@@ -126,6 +142,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,72 +166,16 @@
               <item name="centruAdoptii" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="centruAdoptie" type="462c0819:PsiDirectoryNode" />
-              <item name="adoptatori" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="centruAdoptii" type="b2602c69:ProjectViewProjectNode" />
-              <item name="centruAdoptii" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="centruAdoptie" type="462c0819:PsiDirectoryNode" />
-              <item name="angajati" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="centruAdoptii" type="b2602c69:ProjectViewProjectNode" />
-              <item name="centruAdoptii" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="centruAdoptie" type="462c0819:PsiDirectoryNode" />
-              <item name="animale" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="centruAdoptii" type="b2602c69:ProjectViewProjectNode" />
-              <item name="centruAdoptii" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="centruAdoptie" type="462c0819:PsiDirectoryNode" />
-              <item name="clinici" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="centruAdoptii" type="b2602c69:ProjectViewProjectNode" />
-              <item name="centruAdoptii" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="centruAdoptie" type="462c0819:PsiDirectoryNode" />
-              <item name="formulare" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="centruAdoptii" type="b2602c69:ProjectViewProjectNode" />
-              <item name="centruAdoptii" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="centruAdoptie" type="462c0819:PsiDirectoryNode" />
-              <item name="locatii" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="centruAdoptii" type="b2602c69:ProjectViewProjectNode" />
-              <item name="centruAdoptii" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="centruAdoptie" type="462c0819:PsiDirectoryNode" />
-              <item name="proiecte" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="centruAdoptii" type="b2602c69:ProjectViewProjectNode" />
-              <item name="centruAdoptii" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="centruAdoptie" type="462c0819:PsiDirectoryNode" />
-              <item name="sali" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="centruAdoptii" type="b2602c69:ProjectViewProjectNode" />
-              <item name="centruAdoptii" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="centruAdoptie" type="462c0819:PsiDirectoryNode" />
               <item name="servicii" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554554054022" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -280,8 +241,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27609682" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -291,7 +253,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.33224222" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.33224222" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -321,18 +283,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/centruAdoptie/angajati/Angajat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="73" column="32" lean-forward="true" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1652#1653#0" expanded="true" />
-            <element signature="e#1691#1692#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -371,9 +321,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/audit.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/caini.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -392,27 +339,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/centruAdoptie/proiecte/Proiect.java">
+    <entry file="file://$PROJECT_DIR$/src/centruAdoptie/modele/Proiect.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/centruAdoptie/locatii/Locatie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/centruAdoptie/clinici/Clinica.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -544,28 +477,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/centruAdoptie/adoptatori/Adoptator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/centruAdoptie/servicii/ServiciuAudit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="43" column="5" lean-forward="true" selection-start-line="38" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#608#731#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adoptator.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/adoptator.csv" />
     <entry file="file://$PROJECT_DIR$/src/centruAdoptie/servicii/ServiciuAdoptator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -579,10 +491,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/centruAdoptie/modele/Angajat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/centruAdoptie/modele/Clinica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/centruAdoptie/modele/Locatie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adoptatori.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/centruAdoptie/modele/Adoptator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/centruAdoptie/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        <state relative-caret-position="326">
+          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/audit.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/centruAdoptie/servicii/ServiciuAudit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

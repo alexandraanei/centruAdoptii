@@ -1,6 +1,4 @@
-package centruAdoptie.proiecte;
-
-import centruAdoptie.locatii.Locatie;
+package centruAdoptie.modele;
 
 import java.util.Date;
 

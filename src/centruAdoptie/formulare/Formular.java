@@ -1,6 +1,6 @@
 package centruAdoptie.formulare;
 
-import centruAdoptie.locatii.Locatie;
+import centruAdoptie.modele.Locatie;
 
 public interface Formular {
     String getCNP();

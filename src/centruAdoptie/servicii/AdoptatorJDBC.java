@@ -1,6 +1,6 @@
 package centruAdoptie.servicii;
 
-import centruAdoptie.adoptatori.Adoptator;
+import centruAdoptie.modele.Adoptator;
 
 import java.sql.*;
 

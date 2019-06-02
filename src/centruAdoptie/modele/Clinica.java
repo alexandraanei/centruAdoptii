@@ -1,7 +1,6 @@
-package centruAdoptie.clinici;
+package centruAdoptie.modele;
 
 import centruAdoptie.formulare.FormularPlata;
-import centruAdoptie.locatii.Locatie;
 
 public class Clinica {
     private FormularPlata chitante[];

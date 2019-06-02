@@ -1,6 +1,6 @@
 package centruAdoptie.servicii;
 
-import centruAdoptie.angajati.Angajat;
+import centruAdoptie.modele.Angajat;
 import centruAdoptie.formulare.FormularPlata;
 
 import java.util.*;

@@ -4,7 +4,7 @@ import centruAdoptie.animale.Animal;
 import centruAdoptie.animale.Caine;
 import centruAdoptie.animale.Pisica;
 import centruAdoptie.formulare.FormularAdoptii;
-import centruAdoptie.locatii.Locatie;
+import centruAdoptie.modele.Locatie;
 
 import java.util.ArrayList;
 import java.util.List;

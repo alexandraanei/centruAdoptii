@@ -1,7 +1,7 @@
 package centruAdoptie.formulare;
 
 import centruAdoptie.animale.Animal;
-import centruAdoptie.locatii.Locatie;
+import centruAdoptie.modele.Locatie;
 
 public class FormularAdoptii implements Formular {
     private String CNP;

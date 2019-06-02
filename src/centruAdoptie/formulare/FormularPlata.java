@@ -1,7 +1,7 @@
 package centruAdoptie.formulare;
 
 
-import centruAdoptie.locatii.Locatie;
+import centruAdoptie.modele.Locatie;
 
 public class FormularPlata implements Formular {
     private String CNP;

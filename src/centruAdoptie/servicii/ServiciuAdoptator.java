@@ -1,12 +1,12 @@
 package centruAdoptie.servicii;
 
 
-import centruAdoptie.adoptatori.Adoptator;
+import centruAdoptie.modele.Adoptator;
 import centruAdoptie.animale.Animal;
 import centruAdoptie.animale.Caine;
 import centruAdoptie.animale.Pisica;
 import centruAdoptie.formulare.FormularAdoptii;
-import centruAdoptie.locatii.Locatie;
+import centruAdoptie.modele.Locatie;
 
 import java.io.File;
 import java.io.FileNotFoundException;

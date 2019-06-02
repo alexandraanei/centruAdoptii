@@ -1,4 +1,4 @@
-package centruAdoptie.locatii;
+package centruAdoptie.modele;
 
 public class Locatie {
     private String oras;

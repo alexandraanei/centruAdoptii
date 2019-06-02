@@ -1,4 +1,4 @@
-package centruAdoptie.adoptatori;
+package centruAdoptie.modele;
 
 import centruAdoptie.formulare.FormularAdoptii;
 

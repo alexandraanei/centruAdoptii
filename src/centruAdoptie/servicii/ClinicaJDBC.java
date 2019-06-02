@@ -1,6 +1,6 @@
 package centruAdoptie.servicii;
 
-import centruAdoptie.clinici.Clinica;
+import centruAdoptie.modele.Clinica;
 
 import java.sql.*;
 
